@@ -3,4 +3,4 @@
 # 'italic' + "bold" 
 * ``backticks`` 
 # ```triple backticks```
-- '''italic + bold'''
++ '''italic + bold'''
