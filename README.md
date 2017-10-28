@@ -2,5 +2,5 @@
 # h1  
 # 'italic' + "bold" 
 * ``backticks`` 
-```triple backticks```
-'''italic + bold'''
+# ```triple backticks```
+- '''italic + bold'''
